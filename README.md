@@ -3,7 +3,7 @@
 
 <p align="center">
 Hora de colocar tudo o que foi visto no stage 04 do projeto Explorer da Rocketseat em pratica. O projeto requer que o programa solicite ao usuário que ele(a) insira dois números e, a partir daí, calcular.
-
+<br>
 <br>
 - [ ]  A soma dos dois números;
 <br>
