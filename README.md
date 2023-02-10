@@ -6,15 +6,20 @@ Hora de colocar tudo o que foi visto no stage 04 do projeto Explorer da Rocketse
 
 <br>
 - [ ]  A soma dos dois números;
+<br>
 - [ ]  A subtração dos dois números;
+<br>
 - [ ]  A multiplicação dos dois números;
+<br>
 - [ ]  A divisão dos dois números;
+<br>
 - [ ]  O resto da divisão dos dois números;
 
 <br>
 Depois:
 <br>
 - [ ]  Verifique se a soma dos dois números é par ~~(ou ímpar)~~;
+<br>
 - [ ]  Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
 </p>
 
