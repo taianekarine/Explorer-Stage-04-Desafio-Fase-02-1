@@ -52,7 +52,7 @@ Introdução ao Javascript
 - Variáveis;
 - Operações matemáticas;
 - Operadores comparativos;
-- Condicional.
+- Condicional;
 <br>
 <br>
 
